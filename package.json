@@ -5,7 +5,8 @@
   "author": "Scott Moss <willscottmoss@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test models": "yarn test exercises/models/__test__/"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
